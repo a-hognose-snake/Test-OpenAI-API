@@ -1,3 +1,6 @@
+# ChatGPT Dumb Clone
+![image](https://github.com/a-hognose-snake/TestAPI/assets/33705733/42640230-cbb3-4c95-8fb9-a726fe47c570)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
